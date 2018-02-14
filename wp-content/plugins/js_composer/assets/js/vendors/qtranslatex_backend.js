@@ -1,0 +1,1 @@
+!function(t){function a(a){var r=t(".wpb_switch-to-front-composer");r.data("raw-url")||r.data("raw-url",r.attr("href"));var e=r.data("raw-url")+"&lang="+a;r.attr("href",e),vc.shortcodes.fetch({reset:!0})}t(function(){qTranslateConfig.js.get_qtx().addLanguageSwitchListener(a)})}(window.jQuery);

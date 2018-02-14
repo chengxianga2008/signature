@@ -1,0 +1,1 @@
+!function(e){window.InlineShortcodeView_vc_raw_js=window.InlineShortcodeView.extend({render:function(){window.InlineShortcodeView_vc_raw_js.__super__.render.call(this);var e=this.$el.find(".vc_js_inline_holder").val();return this.$el.find(".wpb_wrapper").html(e),this}})}(window.jQuery);

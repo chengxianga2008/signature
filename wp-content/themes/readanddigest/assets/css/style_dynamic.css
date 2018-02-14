@@ -1,0 +1,59 @@
+body { font-family: Arial;}
+
+.eltdf-boxed { background-attachment: fixed;background-size: cover;}
+
+.eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding-top: 0px;}
+
+.eltdf-content-inner > .eltdf-container:first-child { padding-top: 30px;}
+
+.single-post .eltdf-title.eltdf-title-has-thumbnail { margin-top: 30px;}
+
+h5 { color: #6d6d6d;font-family: Arial;font-size: 10px;line-height: 12px;text-transform: none;font-style: normal;font-weight: 100;}
+
+p { font-size: 16px;}
+
+body { font-size: 16px;}
+
+a, p a { color: #a68d60;font-weight: 800;}
+
+a:hover, p a:hover { color: #bf883b;text-decoration: underline;}
+
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover { color: #bf883b;}
+
+aside.eltdf-sidebar { text-align: left;}
+
+            @media only screen and (max-width: 700px) {
+                .eltdf-top-bar {
+                    height: 0;
+                    display: none;
+                }
+            }
+        .eltdf-header-type3 .eltdf-page-header .eltdf-logo-wrapper a { max-height: 180px;}
+
+.eltdf-header-type3 .eltdf-page-header .eltdf-logo-area { height: 180px;}
+
+.eltdf-page-header .eltdf-sticky-header .eltdf-sticky-holder { background-color: rgba(175, 147, 89, 1);}
+
+.eltdf-page-header .eltdf-sticky-header { height: 60px;}
+
+.eltdf-page-header .eltdf-sticky-header .eltdf-sticky-holder .eltdf-logo-wrapper a { max-height: 54px;}
+
+.eltdf-page-header .eltdf-sticky-header .eltdf-main-menu.eltdf-sticky-nav > ul > li > a { font-size: 13px;line-height: 16px;text-transform: uppercase;font-style: normal;font-weight: 700;letter-spacing: 1px;}
+
+.eltdf-page-header .eltdf-sticky-header .eltdf-main-menu.eltdf-sticky-nav > ul > li:hover > a, .eltdf-page-header .eltdf-sticky-header .eltdf-main-menu.eltdf-sticky-nav > ul > li.eltdf-active-item:hover > a { color: #000000;}
+
+            .eltdf-main-menu.eltdf-default-nav > ul > li > a {
+             color: #000000;                             font-family: 'Arial', sans-serif;
+                         font-size: 12px;              line-height: 12px;              font-style: normal;              font-weight: 700;              text-transform: uppercase;               letter-spacing: 1px;             }
+        
+                    .eltdf-main-menu.eltdf-default-nav > ul > li:hover > a,
+            .eltdf-main-menu.eltdf-default-nav > ul > li.eltdf-active-item:hover > a {
+                color: #af9259 !important;
+            }
+        
+                    .eltdf-main-menu.eltdf-default-nav > ul > li.eltdf-active-item > a {
+                color: #af9259;
+            }
+        
+        .eltdf-side-menu-slide-over-content .eltdf-side-menu { left: -240px;width: 240px;}
+

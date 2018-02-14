@@ -1,0 +1,1 @@
+<div class="eltdf-post-info-count"><span class="eltdf-post-count-number"><?php echo readanddigest_get_post_count_views(readanddigest_get_page_id()); ?></span> <span class="eltdf-post-count-text"><?php esc_html_e('Views','readanddigest'); ?></span></div>

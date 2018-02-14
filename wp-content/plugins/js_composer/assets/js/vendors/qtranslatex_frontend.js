@@ -1,0 +1,1 @@
+!function(n){n("#vc_vendor_qtranslatex_langs_front").change(function(){vc.closeActivePanel(),n("#vc_logo").addClass("vc_ui-wp-spinner"),window.location.href=n(this).val()});var t=vc.ShortcodesBuilder.prototype.getContent;vc.ShortcodesBuilder.prototype.getContent=function(){var n=t();return jQuery("#content").val(n),n}}(window.jQuery);

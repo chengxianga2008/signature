@@ -1,0 +1,1 @@
+!function(i){window.InlineShortcodeView_vc_flickr=window.InlineShortcodeView.extend({render:function(){window.InlineShortcodeView_vc_flickr.__super__.render.call(this);var i=this.$el.find(".vc_flickr-inline-placeholder");return vc.frame_window.vc_iframe.addActivity(function(){this.vc_iframe.vc_Flickr(i)}),this}})}(window.jQuery);

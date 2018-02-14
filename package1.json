@@ -1,0 +1,17 @@
+{
+  "name": "signature",
+  "version": "1.0.0",
+  "description": "Signature Travel",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-image-resize": "^1.0.0",
+    "jit-grunt": "^0.10.0",
+    "jshint-stylish": "^2.2.1",
+    "time-grunt": "^1.4.0"
+  }
+}

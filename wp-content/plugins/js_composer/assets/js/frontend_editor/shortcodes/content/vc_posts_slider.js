@@ -1,0 +1,1 @@
+!function(e){window.InlineShortcodeView_vc_posts_slider=window.InlineShortcodeView.extend({render:function(){var e=this.model.get("id");return window.InlineShortcodeView_vc_posts_slider.__super__.render.call(this),vc.frame_window.vc_iframe.addActivity(function(){this.vc_iframe.vc_postsSlider(e)}),this}})}(window.jQuery);

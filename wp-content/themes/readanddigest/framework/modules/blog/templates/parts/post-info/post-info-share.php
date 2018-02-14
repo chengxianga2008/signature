@@ -1,0 +1,1 @@
+<div class ="eltdf-blog-share"><?php echo readanddigest_get_social_share_html(); ?></div>

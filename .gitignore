@@ -1,0 +1,9 @@
+/wp-content/uploads
+/node_modules
+/newsletter
+/digital-edition
+.htaccess
+wp-config.php
+
+
+

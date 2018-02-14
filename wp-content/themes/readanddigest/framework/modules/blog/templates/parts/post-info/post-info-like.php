@@ -1,0 +1,1 @@
+<div class="eltdf-blog-like"><?php if( function_exists('readanddigest_get_like') ) readanddigest_get_like(); ?></div>
